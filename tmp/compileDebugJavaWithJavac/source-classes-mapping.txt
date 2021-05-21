@@ -1,0 +1,39 @@
+com/example/recyclerview_2/databinding/ActivityMainBinding.java
+ com.example.recyclerview_2.databinding.ActivityMainBinding
+com/example/recyclerview_2/databinding/ListItemMarkupBinding.java
+ com.example.recyclerview_2.databinding.ListItemMarkupBinding
+com/example/recyclerview_2/databinding/ActivityReminderCreationBinding.java
+ com.example.recyclerview_2.databinding.ActivityReminderCreationBinding
+com/example/recyclerview_2/BuildConfig.java
+ com.example.recyclerview_2.BuildConfig
+com/example/recyclerview_2/MyDataBase.java
+ com.example.recyclerview_2.MyDataBase
+com/example/recyclerview_2/RememberListHolder.java
+ com.example.recyclerview_2.RememberListHolder
+com/example/recyclerview_2/RememberListItem.java
+ com.example.recyclerview_2.RememberListItem
+com/example/recyclerview_2/ReminderDAO.java
+ com.example.recyclerview_2.ReminderDAO
+com/example/recyclerview_2/RememberListAdapter.java
+ com.example.recyclerview_2.RememberListAdapter
+ com.example.recyclerview_2.RememberListAdapter$1
+ com.example.recyclerview_2.RememberListAdapter$OnItemClick
+com/example/recyclerview_2/MyDatabaseСlass.java
+ com.example.recyclerview_2.MyDatabaseСlass
+ com.example.recyclerview_2.MyDatabaseСlass$1
+ com.example.recyclerview_2.MyDatabaseСlass$2
+ com.example.recyclerview_2.MyDatabaseСlass$3
+ com.example.recyclerview_2.MyDatabaseСlass$4
+com/example/recyclerview_2/AlarmNotificationReceiver.java
+ com.example.recyclerview_2.AlarmNotificationReceiver
+com/example/recyclerview_2/ReminderCreationActivity.java
+ com.example.recyclerview_2.ReminderCreationActivity
+ com.example.recyclerview_2.ReminderCreationActivity$1
+ com.example.recyclerview_2.ReminderCreationActivity$2
+ com.example.recyclerview_2.ReminderCreationActivity$3
+ com.example.recyclerview_2.ReminderCreationActivity$4
+ com.example.recyclerview_2.ReminderCreationActivity$5
+ com.example.recyclerview_2.ReminderCreationActivity$6
+com/example/recyclerview_2/MainActivity.java
+ com.example.recyclerview_2.MainActivity
+ com.example.recyclerview_2.MainActivity$1
